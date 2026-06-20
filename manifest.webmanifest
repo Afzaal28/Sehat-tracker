@@ -1,0 +1,26 @@
+{
+  "name": "Sehat & Strength",
+  "short_name": "Sehat",
+  "description": "Healthy weight-gain & strength tracker for Manahil",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FBF5EE",
+  "theme_color": "#C9742E",
+  "icons": [
+    {
+      "src": "icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "id": "./index.html"
+}
